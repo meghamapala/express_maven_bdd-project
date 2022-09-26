@@ -1,0 +1,12 @@
+<suite name="sf" parallel="methods">
+
+<test name="jg">
+<classes>
+<class name="com.bit.test.SmokeTest"></class>
+
+</classes>
+
+</test>
+
+
+</suite>

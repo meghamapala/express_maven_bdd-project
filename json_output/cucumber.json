@@ -1,0 +1,130 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Validte Express HomePsge Test",
+        "description": "",
+        "id": "express-application-test;validte-express-homepsge-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4000602900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user open browser",
+            "match": {
+              "location": "HomePageSteps.user_open_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 152439657,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user able to close pop up box",
+            "match": {
+              "location": "HomePageSteps.user_able_to_close_pop_up_box()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1802085877,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "home page is displayed user able to click mens page",
+            "match": {
+              "location": "HomePageSteps.home_page_is_displayed_user_able_to_click_mens_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1010697513,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user able to click on sweaters page",
+            "match": {
+              "location": "HomePageSteps.user_able_to_click_on_sweaters_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1710723334,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user able to click vnecksweater",
+            "match": {
+              "location": "HomePageSteps.user_able_to_click_vnecksweater()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 31132,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user able to select size and color",
+            "match": {
+              "location": "HomePageSteps.user_able_to_select_size_and_color()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 23676,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user able to add item to bag",
+            "match": {
+              "location": "HomePageSteps.user_able_to_add_item_to_bag()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5644194497,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user can click view bag button",
+            "match": {
+              "location": "HomePageSteps.user_can_click_view_bag_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5064473868,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user can close the browser",
+            "match": {
+              "location": "HomePageSteps.user_can_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Express Application Test",
+    "description": "",
+    "id": "express-application-test",
+    "keyword": "Feature",
+    "uri": "/Users/meghamapalagama/eclipse-workspace/express_maven_bdd-project/src/main/java/com/qa/feature/expressbdd.feature"
+  }
+]

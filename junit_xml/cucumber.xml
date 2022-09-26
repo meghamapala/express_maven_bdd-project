@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="19.385272">
+    <testcase classname="Express Application Test" name="Validte Express HomePsge Test" time="19.385272">
+        <system-out><![CDATA[Given user open browser.....................................................passed
+Then user able to close pop up box..........................................passed
+Then home page is displayed user able to click mens page....................passed
+Then user able to click on sweaters page....................................passed
+Then user able to click vnecksweater........................................passed
+Then user able to select size and color.....................................passed
+Then user able to add item to bag...........................................passed
+Then user can click view bag button.........................................passed
+Then user can close the browser.............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
